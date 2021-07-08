@@ -1,0 +1,29 @@
+h1 {
+    
+    font-family: "Georgia";  
+    font-weight: 400;
+}
+h2 {
+    font-family: "Arial";
+}
+h3 {
+    font-family: "Arial";
+    font-weight: 700;
+    font-size: 22px;
+
+}
+html {
+    padding: 96px 96px;
+    margin: 8px 8px;
+    scroll-behavior: smooth;
+}
+.Yearofdeveloping {
+    font-style: italic;
+}
+p {
+    font-family: "Arial";
+    font-size: 15px;
+}
+li {
+    font-family: "Arial";
+}
